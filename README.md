@@ -113,8 +113,7 @@ fprintf('Top‑5 features: %s\n', mat2str(idx(1:5)))
 
 If you use this code, please cite:
 
-> *Dang, Z., Moslemi, A.*, et al. “Unsupervised Feature Selection Using Orthogonally Constrained Matrix Factorization with Hessian Regularization and Non‑Convex Sparsity.” *Canadian AI Conference*, 2025.
-
+> *Dang, Z., Jazayeri, A., Arino, R., Briskina, A., & Moslemi, A.* (2025). **Unsupervised Feature Selection Using Orthogonally Constrained Matrix Factorization with Hessian Regularization and Non-Convex Sparsity**. *Proceedings of the Canadian Conference on Artificial Intelligence*. Retrieved from https://caiac.pubpub.org/pub/et3rmuvx
 ---
 
 ## License
